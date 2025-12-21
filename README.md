@@ -1,3 +1,7 @@
+Loadstring:
+    
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NotPetrds/Skid-Hub/refs/heads/main/Skid%20Hub.lua"))()
+
 Supported Games:
 
     Da hood
