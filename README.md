@@ -14,4 +14,4 @@ Supported Games:
     Murder Mystery 2
     Blind Shot
     Find The Brainrot
-    99 Nights in the forest
+
