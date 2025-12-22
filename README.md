@@ -14,4 +14,10 @@ Supported Games:
     Murder Mystery 2
     Blind Shot
     Find The Brainrot
+    My Card Collection
+    Forgotten Memories
+    The Strongest Battlegrounds
+    Spin a Brainrot
+    Driving Empire
+    
 
