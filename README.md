@@ -19,5 +19,7 @@ Supported Games:
     The Strongest Battlegrounds
     Spin a Brainrot
     Driving Empire
+    Natural Disaster Survival
+    Tower of hell
     
 
